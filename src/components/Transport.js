@@ -43,7 +43,7 @@ export default function Transport() {
           <tr>
             <th>ID </th>
             <th>Name</th>
-            <th>Pick-up Location</th>
+            <th>Pick-upp Location</th>
             <th>Drop-off Location</th>
           </tr>
           {deliverys &&
@@ -64,7 +64,7 @@ export default function Transport() {
             <th>Slot</th>
             <th>ID</th>
             <th>Name</th>
-            <th>Pick-up Location</th>
+            <th>Pick-upp Location</th>
             <th>Drop-off Location</th>
           </tr>
           {deliverys &&

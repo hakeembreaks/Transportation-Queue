@@ -1,6 +1,5 @@
-
-
 {
+    
     "deliverys": [
         {
             "id": "1",
@@ -491,8 +490,8 @@
             "slot":"Slot2",
             "id": "30",
             "name": "Sam Brown",
-            "pick": "Epe, lagos",
-            "drop": "Festac, lagos"
+            "pick": "Epe, lagos", 
+            "drop": "Festac, lagos" 
           
         },
         {
@@ -501,13 +500,13 @@
             "id": "31",
             "name": "Debola Sint",
             "pick": "Magodo, lagos",
-            "drop": "Epe, lagos"
+            "drop": "Epe, lagos" 
           
         },
-        {
-            
+        { 
+
             "slot":"Slot4",
-            "id": "32",
+            "id": "32", 
             "name": "Hakeem Akoko",
             "pick": "VI, lagos",
             "drop": "Ketu, lagos"
